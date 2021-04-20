@@ -21,7 +21,7 @@ export default class DragTabList extends SortMethod {
                         lockAxis='x'
                         // if no pressDelay, close button cannot be triggered,
                         // because it would always treat click as dnd action
-                        pressDelay={150}
+                        pressDelay={200}
                         {...props}>
         {children}
       </DragTabContainer>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6797e179-a2c6-4109-8835-ca7233d62dd6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DragTabList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DragTabList.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -182,12 +183,12 @@
       <updated>1618606998044</updated>
       <workItem from="1618606999291" duration="327000" />
       <workItem from="1618607730972" duration="644000" />
-      <workItem from="1618926116484" duration="1149000" />
+      <workItem from="1618926116484" duration="1841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2120000" />
+    <option name="totallyTimeSpent" value="2812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="425" y="23" width="1255" height="890" extended-state="0" />
